@@ -1,0 +1,4 @@
+.caja{
+    border: 20px solid black;
+    border-image: url("descarga.jpeg") 1 round;
+}

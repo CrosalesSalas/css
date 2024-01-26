@@ -1,0 +1,14 @@
+.caja1{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.caja2{
+    position: fixed;
+    top: 0;
+    left: 50%;
+    
+}
+.caja3{
+    float: right;
+}

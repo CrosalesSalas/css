@@ -1,0 +1,9 @@
+.caja{
+    width: 300px; /* Ancho de la caja */
+    height: 150px; /* Alto de la caja */
+    padding: 20px; /* Ajusta el relleno */
+    border-width: 20px; /* Ancho del borde */
+    border-style: solid; /* Estilo del borde */
+    border-image: linear-gradient(to right, #3498db, #e74c3c) 20 round; /* Gradiente de borde de izquierda a derecha */
+    box-sizing: border-box; /* Incluye el relleno y el borde en el tamaño total de la caja */
+}

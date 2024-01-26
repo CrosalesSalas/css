@@ -1,0 +1,5 @@
+.caja{
+    border: solid black;
+    border-image: linear-gradient(to right, blue, red);
+    border-image-slice: 20;
+}

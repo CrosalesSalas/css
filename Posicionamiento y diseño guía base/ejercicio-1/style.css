@@ -1,0 +1,8 @@
+.caja{
+  position: absolute;
+  border: solid black;
+  padding: 10px;
+  top: 100px;
+  left: 100px;
+
+}
