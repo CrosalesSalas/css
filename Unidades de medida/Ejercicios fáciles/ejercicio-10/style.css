@@ -1,0 +1,9 @@
+.contenedor {
+    height: 300px;
+    border: 1px solid #ccc;
+}
+
+.elemento {
+    text-align: center;
+    line-height: 200px;
+}

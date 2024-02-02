@@ -1,0 +1,10 @@
+.contenedor {
+    font-size: 16px;
+}
+
+.elemento {
+    height: 2em; /* Altura del doble del tamaño de la fuente del elemento padre */
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+}

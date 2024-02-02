@@ -1,0 +1,8 @@
+.elemento{
+    height: 50vh;
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
